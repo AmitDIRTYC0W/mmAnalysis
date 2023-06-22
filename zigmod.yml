@@ -1,0 +1,6 @@
+id: pt9a3po8niemwacmcrqd91t11088shslird8p0x6syjk53es
+name: mmAnalysis
+main: src/main.zig
+license: MPL-2.0
+description: Technical analysis in Zig
+dependencies:
